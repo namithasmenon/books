@@ -1,0 +1,16 @@
+.style1 {
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent white background */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow for the box */
+    max-width: 600px; /* Example: Adjust max-width as needed */
+    margin: 0 auto; /* Center align the box */
+    text-align: center; /* Center align text */
+    color: black; /* Black text color */
+  }
+  
+  .style1 img {
+    max-width: 100%; /* Ensure images fit within the box */
+    border-radius: 8px; /* Rounded corners for images */
+    margin-top: 20px; /* Example: Adjust margin as needed */
+  }

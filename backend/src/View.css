@@ -1,0 +1,9 @@
+.view-container {
+    background-image: url('https://miro.medium.com/v2/resize:fit:1200/1*6Jp3vJWe7VFlFHZ9WhSJng.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%; /* Ensure the background covers the entire viewport height */
+    overflow: auto;
+    padding-top: 64px; /* Use camelCase for CSS properties */
+    background-color: beige;
+  }

@@ -1,0 +1,38 @@
+body, html, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background:none;
+}
+body {
+    background-image: url('https://i.pinimg.com/736x/84/15/b5/8415b57b5f1469181c28f76744d516f2.jpg');
+      background-size:cover;
+      background-repeat: no-repeat;
+      margin: 0; 
+    font-family: 'Arial', sans-serif;
+  }
+  .app-container {
+    background-image: url('https://i.pinimg.com/736x/84/15/b5/8415b57b5f1469181c28f76744d516f2.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+  .style1 h2 {
+    color: black;
+    text-align: center;
+  }
+  
+  .style1 img {
+    display: block;
+    margin: auto;
+    width: 200px; 
+    height: auto; 
+    margin-bottom: 15px;
+  }
+  
+  .style1 p {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
